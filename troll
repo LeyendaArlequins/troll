@@ -1,0 +1,18 @@
+{
+    "usuario1": {
+        "id": 8750386973,
+        "nombre": "N4rczis0",
+        "Animal": "Strawberry Elephant",
+        "Mutations": "Rainbow",
+        "Traits": ["Strawberry", "Galactic", "Taco"],
+        "idspawn": "1"
+    },
+    "usuario2": {
+        "id": 67890,
+        "nombre": "OtroUsuario",
+        "Animal": "Meowl",
+        "Mutations": "Divine",
+        "Traits": ["Lightning", "Skibidi"],
+        "idspawn": "2"
+    }
+}
